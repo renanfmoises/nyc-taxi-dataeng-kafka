@@ -1,0 +1,11 @@
+{
+    "namespace": "com.nyctaxi.tripdata",
+    "type": "record",
+    "name": "TripDataKey",
+    "fields": [
+        {
+            "name": "vendor_id",
+            "type": "int"
+        },
+    ]
+}
